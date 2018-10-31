@@ -1,0 +1,5 @@
+name: "alikins.collection_reqs_self"
+version: "1.0.0"
+description: "a collection that requires itself"
+authors: ["Adrian Likins"]
+license: "GPL-3.0-or-later"
