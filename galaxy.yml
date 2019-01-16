@@ -1,4 +1,5 @@
-name: "alikins.collection_reqs_self"
+namespace: "alikins"
+name: "collection_reqs_self"
 version: "1.0.0"
 description: "a collection that requires itself"
 authors: ["Adrian Likins"]
